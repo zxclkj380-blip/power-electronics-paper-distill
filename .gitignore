@@ -1,0 +1,9 @@
+# Generated paper outputs and source material
+paper-distill/
+examples/
+*.pdf
+*.docx
+*.pptx
+*.xlsx
+tmp/
+.DS_Store
