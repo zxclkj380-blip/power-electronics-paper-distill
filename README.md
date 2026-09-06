@@ -1,5 +1,7 @@
 # Power Electronics Paper Distill
 
+![Power Electronics Paper Distill cover](assets/cover.png)
+
 一个面向 Codex 的电力电子论文蒸馏 Skill。它把逆变器、变换器、调制、建模、控制、稳定性、损耗、热设计、仿真、HIL 和样机论文转换为：
 
 1. 有页码证据的中文精读笔记；
